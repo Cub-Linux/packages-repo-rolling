@@ -1,4 +1,5 @@
 #!/bin/sh
+rm -rf "packages"
 mkdir -p "packages"
 cd "packages"
 echo "Getting GitHub release files..."
